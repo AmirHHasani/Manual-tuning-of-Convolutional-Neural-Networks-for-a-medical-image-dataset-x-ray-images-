@@ -16,4 +16,4 @@ Step 3 : Using ResNet50 instead of VGG16 and fine tuning a model.
 Step 4 : The best model so far.
 
 
-Step 5 : Changing different settings of our best model
+Step 5 : Tuning different settings of our best model
