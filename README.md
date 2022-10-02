@@ -10,7 +10,7 @@ Step 1 : Trying random CNN models on our dataset to find a good base model using
 Step 2 : Using the best model from Step 1 and adding data augmentation, dropout layer. Then using VGG16 and Imagenet weights in fine tuning a model and trying to get better results. I only unfroze the last 4 layers of the conv base(VGG16) to finetune at the end.
 
 
-Step 3 : Using ResNet50 instead of VGG16 and fine tuning a model.
+Step 3 : Using ResNet50 instead of VGG16 in the fine tuning process.
 
 
 Step 4 : The best model so far.
