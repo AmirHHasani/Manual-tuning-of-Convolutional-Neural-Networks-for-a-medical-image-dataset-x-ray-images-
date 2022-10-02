@@ -4,7 +4,7 @@ Note that model checking based on validation loss has been used to save the best
 Metrics such as True Negatives or True positives have been used from time to time.
 
 
-Step 1 : Trying random CNN models on our dataset to find a good base model with Keras
+Step 1 : Trying random CNN models on our dataset to find a good base model using Keras
 
 
 Step 2 : Using the best model from Step 1 and adding data augmentation, dropout layer. Then using VGG16 and Imagenet weights in fine tuning a model and trying to get better results. I only unfroze the last 4 layers of the conv base(VGG16) to finetune at the end.
