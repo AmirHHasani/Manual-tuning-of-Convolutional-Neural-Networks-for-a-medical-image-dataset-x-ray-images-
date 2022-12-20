@@ -3,6 +3,7 @@
 Note that model checking based on validation loss has been used to save the best model in the training process.
 Metrics such as True Negatives or True positives have been used from time to time.
 
+In steps 1 to 4 we try to find a good structure and in step 5 (which has several steps of its own), tuning of the parameters happen.
 
 Step 1 : Trying random CNN models on our dataset to find a good base model using Keras
 
