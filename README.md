@@ -1,4 +1,4 @@
-# Tuning-Convolutional-Neural-Networks
+# Manual tuning of Convolutional Neural Networks for a medical image dataset(x-ray images)
 
 Note that model checking based on validation loss has been used to save the best model in the training process.
 Metrics such as True Negatives or True positives have been used from time to time.
